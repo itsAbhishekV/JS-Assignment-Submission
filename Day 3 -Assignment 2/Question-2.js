@@ -3,6 +3,7 @@
 		Assignment - 2
 			Question - 2*/
 
+// Program to find the sum of all the elements of a given array.
 
 var arr = [/*Some elements in here*/];
 
