@@ -1,0 +1,15 @@
+ || Lets Upgrade
+	Day - 3
+		Assignment - 2
+			Question - 1 ||
+			
+Question:
+
+const clothes = ['jacket', 't-shirt'];
+clothes.length = 0;
+console.log(clothes[0]);
+
+Answer:
+
+The console will give "Undefined", because when the line 9 when will get executed, all the items of the array "clothes" will be deleted.
+It will give "Undefined" because the clothes array was emptied by Line 9 "length" property.
