@@ -1,0 +1,15 @@
+Lets Upgrade
+	Assignment - 4
+		Question - 1
+
+Ques.-> By how many ways we can access elements in the DOM and write about them in brief?
+
+Ans -> there are 5 ways, by ID, by class name, by HTML tag name, and by selector.
+
+	ID = document.getElementById();
+	Class = document.getElementsByClassName();
+	HTML Tag = document.getElementsByTagName();
+	Selector = document.querySelector();
+	Selector = document.querySelectorAll();
+	
+These all are DOM methods, by which we can perform actions on our HTML Webpage (Tags and Elements). By using these methods we can execute any element in our webpage virtually.
